@@ -1,4 +1,4 @@
-<img width="701" alt="image" src="https://github.com/user-attachments/assets/7145c2e1-f5ca-49a6-8d4e-832f56a9f1bb"># Linuxin asentaminen virtuaalikoneelle
+# Linuxin asentaminen virtuaalikoneelle
 
 Tässä raportissa käyn läpi askel askeleelta sen, miten asensin Linuxin virtuaalikoneelle. Päätin käyttää hyväkseni Teemu Laineen ohjetta: https://github.com/HortTemppa/horttemppa.github.io/blob/main/h1.md, koska taloudessamme on tällä hetkellä käytössä ainoastaan M1 Mac (käyttiksenä Sequioa 15.0 Beta).
 
