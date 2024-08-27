@@ -33,6 +33,7 @@ Tässä raportissa käyn läpi askel askeleelta sen, miten asensin Linuxin virtu
     <img width="801" alt="image" src="https://github.com/user-attachments/assets/12e1093d-1867-4ee8-adec-2b49edfad99c">
 
 4. Tämän jälkeen tallensin asetukset ja klikkasin käyttiksen kuvaa käynnistääkseni sen. Hetken päästä olin jo kirjautumisikkunassa.
+
    HOX! Kirjautumisessa en päässyt sisään käyttäjätunnuksella ja salasanalla, jotka olin aiemmin tallentanut. Jouduin siis kirjautumaan käyttämällä defaultia (debian/debian).
 
     <img width="701" alt="image" src="https://github.com/user-attachments/assets/c06c3fec-1708-4dff-a1fa-351f37b0b184">
