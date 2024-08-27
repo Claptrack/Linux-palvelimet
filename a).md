@@ -24,7 +24,7 @@ Tässä raportissa käyn läpi askel askeleelta sen, miten asensin Linuxin virtu
 
     <img width="926" alt="image" src="https://github.com/user-attachments/assets/c70e2174-1d9b-4174-bfdf-d575a059b90e">
 
-2. Information-välilehdellä vaihdoin kirjautumiseen käytettävän salasanan, sekä "admin"-salasanan (Root)
+2. Information-välilehdellä vaihdoin kirjautumiseen käytettävän salasanan, sekä root-salasanan
 
     <img width="808" alt="image" src="https://github.com/user-attachments/assets/f1eb7bd6-a848-4c16-af3a-119a67841e1e">
 
