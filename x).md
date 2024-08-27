@@ -7,3 +7,6 @@
 Lähde: Karvinen, Tero 2006: Raportin kirjoittaminen
   (https://terokarvinen.com/2006/raportin-kirjoittaminen-4/)
 
+# Mitä on "Free Software"?
+
+1. 
