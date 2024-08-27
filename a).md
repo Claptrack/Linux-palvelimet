@@ -58,3 +58,6 @@ Tässä raportissa käyn läpi askel askeleelta sen, miten asensin Linuxin virtu
     
 
     
+## Lähteet
+
+Tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h1-oma-linux
