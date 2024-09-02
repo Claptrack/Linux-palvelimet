@@ -1,2 +1,1 @@
-# h1
-Ekan viikon läksyt
+# Tero Karvisen Linux-kurssin läksyt
