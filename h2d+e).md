@@ -13,4 +13,7 @@ Jatkan "paippaamista" ja lisään perään komennon, joka laskee tiedostojen mä
 ## Lähteet
 
 https://www.howtogeek.com/496056/how-to-use-the-grep-command-on-linux/
+
 https://www.howtogeek.com/438882/how-to-use-pipes-on-linux/
+
+Tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h2-komentaja-pingviini 
