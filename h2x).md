@@ -7,3 +7,7 @@ Lukiessani Tero Karvisen artikkelia vuodelta 2020 (https://terokarvinen.com/2020
 3. Packet management (apt) mahdollistaa sovellusten asentamisen nopeasti ja turvallisesti. Ensimmäisenä tehdään 'sudo apt-get update', joka päivittää listan olemassa olevista paketeista. Tämän jälkeen paketteja voi asentaa 'sudo apt-get install' -komennolla. Pakettien asentaminen vaatii aina sudon käyttämistä, jolloin komentokehote kysyy "admin"-salasanaa.
 
 Artikkelissa mainittujen komentojen lisäksi mainitsisin komennon 'df', joka näyttää työaseman eri tallennusmediat ja niiden kapasitetit sekä käytettävissä olevan tilan. Lisäämällä komentoon -h, lista näytetään "human-readable"-formaatissa.
+
+## Lähteet
+
+Tehtävänanto: https://terokarvinen.com/linux-palvelimet/#h2-komentaja-pingviini
