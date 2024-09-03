@@ -1,6 +1,6 @@
 ## Rauta
 
-Tällä komennolla haen tietoa koneeni hardwaresta, ja saan tuloksena helppolukuisen listan
+Tällä komennolla 'sudo lshw -short -sanitize' hain tietoa koneeni hardwaresta, ja sain tuloksena helppolukuisen listan koneen komponenteista ja niiden poluista
 
 <img width="1116" alt="image" src="https://github.com/user-attachments/assets/ba92aeed-2094-4a5a-bb71-2deec69609c6">
 
