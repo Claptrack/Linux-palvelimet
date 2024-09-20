@@ -1,1 +1,0 @@
-## Kolme itselleni tuntematonta komentoriviohjelmaa
