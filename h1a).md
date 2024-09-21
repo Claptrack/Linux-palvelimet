@@ -1,4 +1,4 @@
-# Linuxin asentaminen virtuaalikoneelle
+# h1) Oma Linux
 
 Tässä raportissa käyn läpi askel askeleelta sen, miten asensin Linuxin virtuaalikoneelle. Päätin käyttää hyväkseni Teemu Laineen ohjetta: https://github.com/HortTemppa/horttemppa.github.io/blob/main/h1.md, koska taloudessamme on tällä hetkellä käytössä ainoastaan M1 Mac (käyttiksenä Sequioa 15.0 Beta).
 
